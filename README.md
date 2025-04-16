@@ -1,4 +1,4 @@
-#  THE WORLD WISE
+# WORLD WISE
 
 THE WORLD WISE is an application that allows users to add details of trips to a selected point on a map. It's a simple yet powerful way to track and document your travels.
 # Features:
